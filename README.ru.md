@@ -7,6 +7,7 @@
   <a href="https://github.com/pablocaeg/sloptotal/releases"><img src="https://img.shields.io/github/v/release/pablocaeg/sloptotal?color=b5282e" alt="Последний релиз"></a>
   <a href="https://github.com/pablocaeg/sloptotal/pkgs/container/sloptotal"><img src="https://img.shields.io/badge/docker-ghcr.io-1a1a18?logo=docker&logoColor=white" alt="Docker-образ"></a>
   <img src="https://img.shields.io/badge/python-3.10%2B-3d3b37" alt="Python 3.10+">
+  <a href="https://github.com/pablocaeg/sloptotal/stargazers"><img src="https://img.shields.io/github/stars/pablocaeg/sloptotal?style=flat&color=e3b341&logo=github" alt="Звёзды на GitHub"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-2d8a4e" alt="Лицензия MIT"></a>
   <a href="https://sloptotal.com/ru/"><img src="https://img.shields.io/badge/демо-sloptotal.com-b5282e" alt="Онлайн-демо"></a>
 </p>

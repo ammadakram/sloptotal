@@ -214,6 +214,9 @@ def format_banner(hw: dict, profile: str, config: dict) -> str:
             "  Dashboard:  http://localhost:8000",
             "  API:        http://localhost:8000/api/quick-score",
             "",
+            "  Useful? A star helps others find it:",
+            "  https://github.com/pablocaeg/sloptotal",
+            "",
         ]
     )
     return "\n".join(lines)
